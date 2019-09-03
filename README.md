@@ -1,4 +1,4 @@
-### Nighttime Single Image Dehazing via Pixel-Wise Alpha Blending
+## Nighttime Single Image Dehazing via Pixel-Wise Alpha Blending
 
 ![image](flowchart.png)
 
